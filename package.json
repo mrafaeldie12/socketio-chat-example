@@ -1,0 +1,13 @@
+{
+  "name": "socketio-chat-example",
+  "version": "1.0.0",
+  "description": "Chat example with Socket IO",
+  "author": "Rafael Dietrich",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.3"
+  }
+}
