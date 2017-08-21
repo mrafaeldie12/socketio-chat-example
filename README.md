@@ -1,5 +1,10 @@
 # SocketIO simple chat example
 
+## How to run
+```sh
+node index.js
+```
+
 ## To-do list
 
  - Serve files statically
